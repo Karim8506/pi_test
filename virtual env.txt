@@ -1,0 +1,2 @@
+python3 -m venv yolo-env
+source yolo-env/bin/activate
